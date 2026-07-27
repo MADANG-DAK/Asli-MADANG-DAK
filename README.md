@@ -1,30 +1,34 @@
-# 🍲 Asli MADANG DAK☕🚬
+# 🍲 𝗔𝘀𝗹𝗶 𝗠𝗔𝗗𝗔𝗡𝗚 𝗗𝗔𝗞☕🚬
 
-Selamat datang di repositori resmi **Asli MADANG DAK**! 🚀
-Website ini dibuat sebagai portal informasi dan media interaktif dengan berbagi ebook kitab (Ta'lim al-Muta'allim Tariq al-Ta'allum) karya Syekh Burhanuddin Ibrahim al-Zarnuji ,arab & terjemah.
-
----
-
-## 🌟 Fitur Utama
-* **Tampilan Estetik**: Desain suasana pemandangan desa alami yang modern menggunakan HTML & CSS.
-* **Audio Player**: Dilengkapi dengan pemutar musik/audio latar belakang.
-* **Galeri Media**: Menampilkan gambar dan file pendukung PDF.
+𝗦𝗲𝗹𝗮𝗺𝗮𝘁 𝗱𝗮𝘁𝗮𝗻𝗴 𝗱𝗶 𝗿𝗲𝗽𝗼𝘀𝗶𝘁𝗼𝗿𝗶 𝗿𝗲𝘀𝗺𝗶 **𝗔𝘀𝗹𝗶 𝗠𝗔𝗗𝗔𝗡𝗚 𝗗𝗔𝗞**! 🚀
+𝗪𝗲𝗯𝘀𝗶𝘁𝗲 𝗶𝗻𝗶 𝗱𝗶𝗯𝘂𝗮𝘁 𝘀𝗲𝗯𝗮𝗴𝗮𝗶 𝗽𝗼𝗿𝘁𝗮𝗹 𝗶𝗻𝗳𝗼𝗿𝗺𝗮𝘀𝗶 𝗱𝗮𝗻 𝗺𝗲𝗱𝗶𝗮 𝗶𝗻𝘁𝗲𝗿𝗮𝗸𝘁𝗶𝗳 𝗱𝗲𝗻𝗴𝗮𝗻 𝗯𝗲𝗿𝗯𝗮𝗴𝗶 𝗲𝗯𝗼𝗼𝗸 𝗸𝗶𝘁𝗮𝗯 (𝗧𝗮'𝗹𝗶𝗺 𝗮𝗹-𝗠𝘂𝘁𝗮'𝗮𝗹𝗹𝗶𝗺 𝗧𝗮𝗿𝗶 standard 𝗮𝗹-𝗧𝗮'𝗮𝗹𝗹𝘂𝗺) 𝗸𝗮𝗿𝘆𝗮 𝗦𝘆𝗲𝗸𝗵 𝗕𝘂𝗿𝗵𝗮𝗻𝘂𝗱𝗱𝗶𝗻 𝗜𝗯𝗿𝗮𝗵𝗶𝗺 𝗮𝗹-𝗭𝗮𝗿𝗻𝘂𝗷𝗶 ,𝗮𝗿𝗮𝗯 & 𝘁𝗲𝗿𝗷𝗲𝗺𝗮𝗵.
 
 ---
 
-## 🔗 Link Website Resmi
-Kamu bisa mencoba dan melihat tampilan langsung websitenya di sini:
+## 🌟 𝗙𝗶𝘁𝘂𝗿 𝗨𝘁𝗮𝗺𝗮
+* **𝗧𝗮𝗺𝗽𝗶𝗹𝗮𝗻 𝗘𝘀𝘁𝗲𝘁𝗶𝗸**: 𝗗𝗲𝘀𝗮𝗶𝗻 𝘀𝘂𝗮𝘀𝗮𝗻𝗮 𝗽𝗲𝗺𝗮𝗻𝗱𝗮𝗻𝗴𝗮𝗻 𝗱𝗲𝘀𝗮 𝗮𝗹𝗮𝗺𝗶 𝘆𝗮𝗻𝗴 𝗺𝗼𝗱𝗲𝗿𝗻 𝗺𝗲𝗻𝗴𝗴𝘂𝗻𝗮𝗸𝗮𝗻 𝗛𝗧𝗠𝗟 & 𝗖𝗦𝗦.
+* **𝗔𝘂𝗱𝗶𝗼 𝗣𝗹𝗮𝘆𝗲𝗿**: 𝗗𝗶𝗹𝗲𝗻𝗴𝗸𝗮𝗽𝗶 𝗱𝗲𝗻𝗴𝗮𝗻 𝗽𝗲𝗺𝘂𝘁𝗮𝗿 𝗺𝘂𝘀𝗶𝗸/𝗮𝘂𝗱𝗶𝗼 𝗹𝗮𝘁𝗮𝗿 𝗯𝗲𝗹𝗮𝗸𝗮𝗻𝗴.
+* **𝗚𝗮𝗹𝗲𝗿𝗶 𝗠𝗲𝗱𝗶𝗮**: 𝗠𝗲𝗻𝗮𝗺𝗽𝗶𝗹𝗸𝗮𝗻 𝗴𝗮𝗺𝗯𝗮𝗿 𝗱𝗮𝗻 𝗳𝗶𝗹𝗲 𝗽𝗲𝗻𝗱𝘂𝗸𝘂𝗻𝗴 𝗣𝗗𝗙.
+
+---
+
+## 🔗 𝗟𝗶𝗻𝗸 𝗪𝗲𝗯𝘀𝗶𝘁𝗲 𝗥𝗲𝘀𝗺𝗶
+𝗞𝗮𝗺𝘂 𝗯𝗶𝘀𝗮 𝗺𝗲𝗻𝗰𝗼𝗯𝗮 𝗱𝗮𝗻 𝗺𝗲𝗹𝗶𝗵𝗮𝘁 𝘁𝗮𝗺𝗽𝗶𝗹𝗮𝗻 𝗹𝗮𝗻𝗴𝘀𝘂𝗻𝗴 𝘄𝗲𝗯𝘀𝗶𝘁𝗲𝗻𝘆𝗮 𝗱𝗶 𝘀𝗶𝗻𝗶:
 👉 [https://madang-levi-412t3pr111.netlify.app](https://madang-levi-412t3pr111.netlify.app)
 
 ---
 
-## 🛠️ Teknologi yang Digunakan
-* **HTML5** - Struktur utama web
-* **CSS3** - Styling & Desain
-* **GitHub & Netlify** - Hosting & Penyimpanan
+## 🛠️ 𝗧𝗲𝗸𝗻𝗼𝗹𝗼𝗴𝗶 𝘆𝗮𝗻𝗴 𝗗𝗶𝗴𝘂𝗻𝗮𝗸𝗮𝗻
+* **𝗛𝗧𝗠𝗟𝟱** - 𝗦𝘁𝗿𝘂𝗸𝘁𝘂𝗿 𝘂𝘁𝗮𝗺𝗮 𝘄𝗲𝗯
+* **𝗖𝗦𝗦𝟯** - 𝗦𝘁𝘆𝗹𝗶𝗻𝗴 & 𝗗𝗲𝘀𝗮𝗶𝗻
+* **𝗚𝗶𝘁𝗛𝘂𝗯 & 𝗡𝗲𝘁𝗹𝗶𝗳𝘆** - 𝗛𝗼𝘀𝘁𝗶𝗻𝗴 & 𝗣𝗲𝗻𝘆𝗶𝗺𝗽𝗮𝗻𝗮𝗻
 
 ---
 
-> ✨ **Pengingat:**  
+> ✨ **𝗣𝗲𝗻𝗴𝗶𝗻𝗴𝗮𝘁:**  
+> 𝗝𝗮𝗴𝗮 𝗵𝗮𝘁𝗶, 𝗸𝗶𝘁𝗮 𝘀𝗮𝗺𝗮 𝗱𝗶 𝗺𝗮𝘁𝗮 𝗧𝘂𝗵𝗮𝗻!  
+> **𝗦𝗘𝗠𝗨𝗔 𝗦𝗞𝗢𝗥 𝗦𝗘𝗠𝗘𝗡𝗧𝗔𝗥𝗔**
+
+> > ✨ **𝗣𝗲𝗻𝗴𝗶𝗻𝗴𝗮𝘁:**  
 > 𝕵𝖆𝖌𝖆 𝖍𝖆𝖙𝖎, 𝖐𝖎𝖙𝖆 𝖘𝖆𝖒𝖆 𝖉𝖎 𝖒𝖆𝖙𝖆 𝕿𝖚𝖍𝖆𝖓!  
 > **SEMUA MASIH SKOR SEMENTARA** 🤍🙏🏼
