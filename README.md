@@ -22,3 +22,9 @@ Kamu bisa mencoba dan melihat tampilan langsung websitenya di sini:
 * **HTML5** - Struktur utama web
 * **CSS3** - Styling & Desain
 * **GitHub & Netlify** - Hosting & Penyimpanan
+
+---
+
+> ✨ **Pengingat:**  
+> 𝕵𝖆𝖌𝖆 𝖍𝖆𝖙𝖎, 𝖐𝖎𝖙𝖆 𝖘𝖆𝖒𝖆 𝖉𝖎 𝖒𝖆𝖙𝖆 𝕿𝖚𝖍𝖆𝖓!  
+> **SEMUA SKOR SEMENTARA** 🤍🙏🏼
