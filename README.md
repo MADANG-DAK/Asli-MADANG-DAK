@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="IMG.logo_Madang_dak.jpg" width="180" alt="Logo Asli Madang Dak">
+  <img src="IMG.logo_Madang_dak.jpg" width="180" alt="Logo Madang Dak">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=26&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=450&lines=Asli+MADANG+Dak" alt="Asli MADANG DAK" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=26&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=450&lines=MADANG+Dak" alt="MADANG DAK" />
 </p>
 
 Selamat datang di repositori resmi **Asli MADANG DAK**! 🚀
