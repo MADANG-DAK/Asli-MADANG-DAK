@@ -25,7 +25,7 @@ Kamu bisa mencoba dan melihat tampilan langsung websitenya di sini:
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Amarante&weight=400&size=20&duration=1&pause=1000&color=FFFFFF&vCenter=true&width=350&lines=%F0%9F%9B%A0%EF%B8%8F+Teknologi+yang+Digunakanツ" alt="Teknologi" />
+<img src="https://readme-typing-svg.demolab.com?font=Amarante&weight=400&size=20&duration=1&pause=1000&color=FFFFFF&vCenter=true&width=350&lines=%F0%9F%9B%A0%EF%B8%8F+Teknologi+yang+Digunakan+ツ" alt="Teknologi" />
 
 * **HTML5** - Struktur utama web
 * **CSS3** - Styling & Desain
