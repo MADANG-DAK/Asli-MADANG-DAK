@@ -1,6 +1,7 @@
 <h1 align="center">
   <img src="IMG.logo_Madang_dak.jpg" width="30" height="30" valign="middle">
-   Asli MADANG DAK ☕ 🚬
+   
+  Asli MADANG DAK ☕ 🚬
 </h1>
 
 <p align="center">
