@@ -2,7 +2,7 @@
   <img src="IMG.logo_Madang_dak.jpg" width="200" alt="Logo">
 </p>
 
-#🍲 Asli MADANG DAK☕🚬
+*# 🍲 Asli MADANG DAK☕🚬
 
 Selamat datang di repositori resmi **Asli MADANG DAK**! 🚀
 Website ini dibuat sebagai portal informasi dan media interaktif dengan berbagi ebook, mulai dari kitab Ta'lim al-Muta'allim Tariq al-Ta'allum (arab & terjemah) karya Syekh Burhanuddin Ibrahim al-Zarnuji, hingga ebook-ebook lainnya.
