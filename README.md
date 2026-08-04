@@ -6,6 +6,31 @@
 </p>
 
 Selamat datang di repositori resmi **Asli MADANG DAK**! 🚀
+Website ini dibuat sebagai portal informasi dan media interaktif dengan berbagai ebook, mulai dari kitab Ta'lim al-Muta'allim Tariq al-Ta'allum (arab & terjemah) karya Syekh Burhanuddin Ibrahim al-Zarnuji, hingga ebook-ebook lainnya.
+
+---
+
+<img src="https://readme-typing-svg.demolab.com?font=Amarante&weight=400&size=20&duration=1&pause=1000&color=FFFFFF&vCenter=true&width=300&lines=%F0%9F%8C%9F+Fitur+Utama" alt="Fitur Utama" />
+
+* **Tampilan Estetik**: Desain suasana pemandangan desa alami yang modern menggunakan HTML & CSS.
+* **Audio Player**: Dilengkapi dengan pemutar musik/audio latar belakang.
+* **Galeri Media**: Menampilkan gambar dan file pendukung PDF.
+
+---
+
+<img src="https://readme-typing-svg.demolab.com?font=Amarante&weight=400&size=20&duration=1&pause=1000&color=FFFFFF&vCenter=true&width=300&lines=%F0%9F%94%97+Link+Website+Resmi" alt="Link Website" />
+
+Kamu bisa mencoba dan melihat tampilan langsung websitenya di sini:
+👉 [https://madang-levi-412t3pr111.netlify.app](https://madang-levi-412t3pr111.netlify.app)
+
+---
+
+<img src="https://readme-typing-svg.demolab.com?font=Amarante&weight=400&size=20&duration=1&pause=1000&color=FFFFFF&vCenter=true&width=350&lines=%F0%9F%9B%A0%EF%B8%8F+Teknologi+yang+Digunakan" alt="Teknologi" />
+
+* **HTML5** - Struktur utama web
+* **CSS3** - Styling & Desain
+* **GitHub & Netlify** - Hosting & Penyimpanan
+Selamat datang di repositori resmi **Asli MADANG DAK**! 🚀
 Website ini dibuat sebagai portal informasi dan media interaktif dengan berbagi ebook, mulai dari kitab Ta'lim al-Muta'allim Tariq al-Ta'allum (arab & terjemah) karya Syekh Burhanuddin Ibrahim al-Zarnuji, hingga ebook-ebook lainnya.
 
 ---
