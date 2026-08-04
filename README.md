@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="IMG.logo Madang dak.jpg" width="200" alt="Logo">
+  <img src="IMG.logo__Madang_dak.jpg" width="200" alt="Logo">
 </p>
 # 🍲 𝗔𝘀𝗹𝗶 𝗠𝗔𝗗𝗔𝗡𝗚 𝗗𝗔𝗞☕🚬
 
