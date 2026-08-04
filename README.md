@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="NAMA_FILE_LOGO_ANDA.png" width="200" alt="Logo">
+</p>
 # 🍲 𝗔𝘀𝗹𝗶 𝗠𝗔𝗗𝗔𝗡𝗚 𝗗𝗔𝗞☕🚬
 
 𝗦𝗲𝗹𝗮𝗺𝗮𝘁 𝗱𝗮𝘁𝗮𝗻𝗴 𝗱𝗶 𝗿𝗲𝗽𝗼𝘀𝗶𝘁𝗼𝗿𝗶 𝗿𝗲𝘀𝗺𝗶 **𝗔𝘀𝗹𝗶 𝗠𝗔𝗗𝗔𝗡𝗚 𝗗𝗔𝗞**! 🚀
