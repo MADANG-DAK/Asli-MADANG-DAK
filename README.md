@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=26&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=450&lines=MADANG+Dak" alt="MADANG DAK" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=28&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=400&lines=MADANG+DAK" alt="MADANG DAK" />
 </p>
 
 Selamat datang di repositori resmi **Asli MADANG DAK**! 🚀
