@@ -1,11 +1,12 @@
-<div align="center">
 
-| <img src="IMG.logo_Madang_dak.jpg" width="100" alt="Logo"> |
-| :---: |
-| # 🍲 Asli MADANG DAK ☕ 🚬 |
-| Selamat datang di repositori resmi **Asli MADANG DAK**! 🚀<br>Website ini dibuat sebagai portal informasi dan media interaktif dengan berbagai ebook, mulai dari kitab Ta'lim al-Muta'allim Tariq al-Ta'allum hingga ebook-ebook lainnya. |
+<p align="center">
+  <img src="IMG.logo_Madang_dak.jpg" width="200" alt="Logo">
+</p>
 
-</div>
+  🍚 Asli MADANG DAK☕🚬
+
+Selamat datang di repositori resmi **Asli MADANG DAK**! 🚀
+Website ini dibuat sebagai portal informasi dan media interaktif dengan berbagi ebook, mulai dari kitab Ta'lim al-Muta'allim Tariq al-Ta'allum (arab & terjemah) karya Syekh Burhanuddin Ibrahim al-Zarnuji, hingga ebook-ebook lainnya.
 
 ---
 
