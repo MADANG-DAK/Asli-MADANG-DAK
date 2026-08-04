@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="IMG.logo_Madang_dak.jpg" width="200" alt="Logo">
 </p>
