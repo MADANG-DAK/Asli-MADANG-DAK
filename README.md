@@ -19,7 +19,7 @@ Website ini dibuat sebagai portal informasi dan media interaktif dengan berbagi 
 
 ## 🖇️ Link Website Resmi＼⁠(⁠^⁠o⁠^⁠)⁠／
 Kamu bisa mencoba dan melihat tampilan langsung websitenya di sini:
-👉 [https://madang-levi-🚬412t3pr111.netlify.app](https://madang-levi-412t3pr111.netlify.app)
+👉🏼 [https://madang-levi-🚬412t3pr111.netlify.app](https://madang-levi-412t3pr111.netlify.app)
 
 ---
 
