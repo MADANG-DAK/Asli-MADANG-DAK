@@ -10,15 +10,14 @@ Website ini dibuat sebagai portal informasi dan media interaktif dengan berbagi 
 
 ---
 
-## 🌃 Fitur Utama ⊂⁠(⁠•⁠‿⁠•⁠⊂⁠ ⁠)⁠*⁠.⁠✧
+## 🌃 Fitur Utama
 * **Tampilan Estetik**: Desain suasana pemandangan desa alami yang modern menggunakan HTML & CSS.
 * **Audio Player**: Dilengkapi dengan pemutar musik/audio latar belakang.
 * **Galeri Media**: Menampilkan gambar dan file pendukung PDF.
 
 ---
 
-## 🖇️ Link Website Resmi＼⁠(⁠^⁠o⁠^⁠)⁠／
-Link Website Resmi
+## 🖇️ Link Website Resmi
 Kamu bisa mencoba dan melihat tampilan langsung websitenya di sini:
 👉 [https://madang-levi-412t3pr111.netlify.app](https://madang-levi-412t3pr111.netlify.app)🚬
 
