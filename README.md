@@ -1,10 +1,10 @@
 <h1 align="center">
-  <img src="IMG.logo_madang.jpg" width="30" height="30" valign="middle">
+  <img src="IMG.logo_Madang_dak.jpg" width="30" height="30" valign="middle">
   🍲 Asli MADANG DAK ☕ 🚬
 </h1>
 
 <p align="center">
-  <img src="NAMA_FILE_ANDA.jpg" width="150" alt="Logo">
+  <img src="IMG.logo_Madang_dak.jpg" width="150" alt="Logo">
 </p>
 
 🍲 Asli MADANG DAK☕🚬
