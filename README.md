@@ -1,18 +1,9 @@
-<h1 align="center">
-  <img src="IMG.logo_Madang_dak.jpg" width="30" height="30" valign="middle"> 
-  Asli MADANG DAK
-<table border="0">
-  <tr>
-    <td width="30%" align="center">
-      <img src="IMG.logo_Madang_dak.jpg" width="120" alt="Logo">
-    </td>
-    <td width="70%">
-      <h2>🍲 Asli MADANG DAK ☕ 🚬</h2>
-      <p>Selamat datang di repositori resmi <b>Asli MADANG DAK</b>! 🚀<br>
-      Website ini dibuat sebagai portal informasi dan media interaktif dengan berbagai ebook.</p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="IMG.logo_Madang_dak.jpg" width="200" alt="Logo">
+</p>
+
+# 🍲 Asli MADANG DAK☕🚬
+
 Selamat datang di repositori resmi **Asli MADANG DAK**! 🚀
 Website ini dibuat sebagai portal informasi dan media interaktif dengan berbagi ebook, mulai dari kitab Ta'lim al-Muta'allim Tariq al-Ta'allum (arab & terjemah) karya Syekh Burhanuddin Ibrahim al-Zarnuji, hingga ebook-ebook lainnya.
 
@@ -35,6 +26,7 @@ Kamu bisa mencoba dan melihat tampilan langsung websitenya di sini:
 * **HTML5** - Struktur utama web
 * **CSS3** - Styling & Desain
 * **GitHub & Netlify** - Hosting & Penyimpanan
+
 
 ---
 
