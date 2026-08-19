@@ -3,10 +3,9 @@
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=28&duration=1&pause=1000&color=000000&center=true&vCenter=true&width=400&lines=MADANG+DAK">
-    <img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=28&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=400&lines=MADANG+DAK" alt="MADANG DAK">
-  </picture>
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=28&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=400&lines=MADANG+DAK#gh-dark-mode-only" alt="MADANG DAK" />
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=28&duration=1&pause=1000&color=000000&center=true&vCenter=true&width=400&lines=MADANG+DAK#gh-light-mode-only" alt="MADANG DAK" />
 </p>
 
 Selamat datang di repositori resmi **Asli MADANG DAK**! ☕^_>
