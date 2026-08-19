@@ -1,9 +1,8 @@
 <p align="center">
   <img src="Longo.png" width="130" alt="Logo Madang Dak">
 </p>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=28&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=400&lines=MADANG+DAK#gh-dark-mode-only" alt="MADANG DAK" /><img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=28&duration=1&pause=1000&color=000000&center=true&vCenter=true&width=400&lines=MADANG+DAK#gh-light-mode-only" alt="MADANG DAK" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=28&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=400&lines=MADANG+DAK" alt="MADANG DAK" style="filter: drop-shadow(0px 0px 8px rgba(255, 255, 255, 0.7));" />
 </p>
 
 Selamat datang di repositori resmi **Asli MADANG DAK**! ☕^_>
